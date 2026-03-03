@@ -2936,7 +2936,7 @@
             return null;
         }
 // === EMBEDDED DATA (fallback when not logged in) ===
-        const FALLBACK_DATA = {
+        const FALLBACK_DATA = { tasks: [], projects: [], activity: [] }; const OLD_FALLBACK = {
             tasks: [
                 // === PERMANENT (recurring tasks) ===
                 {
