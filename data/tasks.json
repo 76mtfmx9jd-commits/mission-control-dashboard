@@ -1,43 +1,5 @@
 {
-  "tasks": [
-    {
-      "id": "abp_scout_init",
-      "title": "🚀 ABP Scout — Project Setup",
-      "description": "Initial setup and planning for ABP Scout project.\n\nWhat is ABP Scout? Please provide more details about the project goals.",
-      "status": "in_progress",
-      "project": "abp_scout",
-      "tags": [
-        "setup",
-        "planning"
-      ],
-      "subtasks": [
-        {
-          "id": "sub_001",
-          "title": "Define project goals and scope",
-          "done": false
-        },
-        {
-          "id": "sub_002",
-          "title": "Identify key requirements",
-          "done": false
-        },
-        {
-          "id": "sub_003",
-          "title": "Create initial roadmap",
-          "done": false
-        }
-      ],
-      "priority": "high",
-      "comments": [
-        {
-          "author": "AI Assistant",
-          "text": "Project created via voice command. Awaiting more details about ABP Scout.",
-          "timestamp": "2026-03-03T09:36:56Z"
-        }
-      ],
-      "createdAt": "2026-03-03T09:36:56Z"
-    }
-  ],
+  "tasks": [],
   "projects": [
     {
       "id": "abp_scout",
@@ -46,5 +8,5 @@
       "icon": "🔍"
     }
   ],
-  "lastUpdated": "2026-03-10T10:32:07.605Z"
+  "lastUpdated": "2026-03-10T10:32:10.636Z"
 }
